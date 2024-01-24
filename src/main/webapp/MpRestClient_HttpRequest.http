@@ -1,12 +1,14 @@
 // Firebase Realtime Database stores JSON data in a JSON Tree structure
 
 ### Push new JSON data to the path
-POST https://dmit2015-sanidhya-default-rtdb.firebaseio.com/.json
+POST https://dmit2015-sanidhya-default-rtdb.firebaseio.com/Football.json
 Content-Type: application/json
 
+
 {
-  "propertyName1": "property1Value",
-  "propertyName2": "property2Value",
+  "TeamName": "Argentina",
+  "Captain": "Lionel Messi",
+  "Coach": "Louisse"
 }
 
 ### Read JSON data by path

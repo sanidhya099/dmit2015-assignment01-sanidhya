@@ -1,0 +1,30 @@
+{
+  "-NomPxgPkRZPFdsY-Vk7": {
+    "Player": "Christiano Ronaldo",
+    "Sports": "Football"
+  },
+  "-NomRXqbIql8lqef84-c": {
+    "Player": "Christiano Ronaldo",
+    "Sports": "Football",
+    "name": "Manchester"
+  },
+  "-NomSlKJsNa3NzIe3-n2": {
+    "Player": "Christiano Ronaldo",
+    "Sports": "Football",
+    "name": "Manchester"
+  },
+  "FcBarcelona": {
+    "-NomTBHYfqvaj5za5fWg": {
+      "Player": "Christiano Ronaldo",
+      "Sports": "Football",
+      "name": "Manchester"
+    }
+  },
+  "Football": {
+    "-NoxPEkgZCqByW07d4wX": {
+      "Captain": "Lionel Messi",
+      "Coach": "Louisse",
+      "TeamName": "Argentina"
+    }
+  }
+}

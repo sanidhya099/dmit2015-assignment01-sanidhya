@@ -1,0 +1,143 @@
+GET https://dmit2015-sanidhya-default-rtdb.firebaseio.com/.json
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.9)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+<> 2024-01-24T152157.200.json
+
+###
+
+POST https://dmit2015-sanidhya-default-rtdb.firebaseio.com/Football.json
+Content-Type: application/json
+Content-Length: 80
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.9)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+{
+  "TeamName": "Argentina",
+  "Captain": "Lionel Messi",
+  "Coach": "Louisse"
+}
+
+<> 2024-01-24T143827.200.json
+
+###
+
+POST https://dmit2015-sanidhya-default-rtdb.firebaseio.com/FcBarcelona.json
+Content-Type: application/json
+Content-Length: 84
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.9)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+{
+  "name": "Manchester",
+  "Sports": "Football",
+  "Player": "Christiano Ronaldo"
+}
+
+<> 2024-01-22T113952.200.json
+
+###
+
+GET https://dmit2015-sanidhya-default-rtdb.firebaseio.com/.json
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.9)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+<> 2024-01-22T113814.200.json
+
+###
+
+POST https://dmit2015-sanidhya-default-rtdb.firebaseio.com/.json
+Content-Type: application/json
+Content-Length: 84
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.9)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+{
+  "name": "Manchester",
+  "Sports": "Football",
+  "Player": "Christiano Ronaldo"
+}
+
+<> 2024-01-22T113801.200.json
+
+###
+
+POST https://dmit2015-sanidhya-default-rtdb.firebaseio.com/.json
+Content-Type: application/json
+Content-Length: 84
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.9)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+{
+  "name": "Manchester",
+  "Sports": "Football",
+  "Player": "Christiano Ronaldo"
+}
+
+<> 2024-01-22T113240.200.json
+
+###
+
+POST https://dmit2015-sanidhya-default-rtdb.firebaseio.com/.json
+Content-Type: application/json
+Content-Length: 60
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.9)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+{
+  "Sports": "Football",
+  "Player": "Christiano Ronaldo"
+}
+
+<> 2024-01-22T112545.200.json
+
+###
+
+POST https://dmit2015-sanidhya-default-rtdb.firebaseio.com/.json
+Content-Type: application/json
+Content-Length: 60
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.9)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+{
+  "Sports": "Football",
+  "Player": "Christiano Ronaldo"
+}
+
+<> 2024-01-22T112438.401.json
+
+###
+
+GET https://dmit2015-sanidhya-default-rtdb.firebaseio.com/.json
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.9)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+<> 2024-01-22T112406.401.json
+
+###
+
+POST https://dmit2015-sanidhya-default-rtdb.firebaseio.com/.json
+Content-Type: application/json
+Content-Length: 60
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.9)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+{
+  "Sports": "Football",
+  "Player": "Christiano Ronaldo"
+}
+
+<> 2024-01-22T112319.401.json
+
+###
+

@@ -24,31 +24,15 @@ public class FootballListView implements Serializable {
 
     @Inject
     @RestClient
-    private FootballMpRestClient _$
-
-    {
-        jsonDataClass.toLowerCase()
-    }
-
-    MpRestClient;
+    private FootballMpRestClient _footballMpRestClient;
 
     @Getter
-    private Map<String, Football> $
-
-    {
-        jsonDataClass.toLowerCase()
-    }
-
-    Map;
+    private Map<String, Football> footballMap;
 
     @PostConstruct  // After @Inject is complete
     public void init() {
         try {
-            $ {
-                DocumentName.toLowerCase()
-            } Map = _$ {
-                jsonDataClass.toLowerCase()
-            } MpRestClient.findAll();
+            footballMap = _footballMpRestClient.findAll();
         } catch (Exception ex) {
             Messages.addGlobalError(ex.getMessage());
         }
